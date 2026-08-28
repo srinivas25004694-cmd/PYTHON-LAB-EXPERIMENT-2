@@ -31,3 +31,10 @@ To develop a Python program to evaluate a cricket player's batting, bowling, fie
 
 ## SOURCE CODE 
 
+![Output](./Screenshot%202026-08-28%20150507.png)
+![Output](./Screenshot%202026-08-28%20151221.png)
+
+## OUTPUT
+
+![Output](./Screenshot%202026-08-28%20151457.png)
+![Output](./Screenshot%202026-08-28%20151509.png)
